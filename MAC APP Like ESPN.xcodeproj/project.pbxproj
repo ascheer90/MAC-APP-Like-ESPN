@@ -1,0 +1,609 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D9182CD72A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CD62A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift */; };
+		D9182CD92A06127A007F6C3C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CD82A06127A007F6C3C /* ContentView.swift */; };
+		D9182CDB2A06127C007F6C3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9182CDA2A06127C007F6C3C /* Assets.xcassets */; };
+		D9182CDF2A06127C007F6C3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9182CDE2A06127C007F6C3C /* Preview Assets.xcassets */; };
+		D9182CE92A06127D007F6C3C /* MAC_APP_Like_ESPNTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CE82A06127D007F6C3C /* MAC_APP_Like_ESPNTests.swift */; };
+		D9182CF32A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CF22A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift */; };
+		D9182CF52A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CF42A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D9182CE52A06127D007F6C3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D9182CCB2A06127A007F6C3C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D9182CD22A06127A007F6C3C;
+			remoteInfo = "MAC APP Like ESPN";
+		};
+		D9182CEF2A06127D007F6C3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D9182CCB2A06127A007F6C3C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D9182CD22A06127A007F6C3C;
+			remoteInfo = "MAC APP Like ESPN";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D9182CD32A06127A007F6C3C /* MAC APP Like ESPN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MAC APP Like ESPN.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9182CD62A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAC_APP_Like_ESPNApp.swift; sourceTree = "<group>"; };
+		D9182CD82A06127A007F6C3C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D9182CDA2A06127C007F6C3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D9182CDC2A06127C007F6C3C /* MAC_APP_Like_ESPN.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MAC_APP_Like_ESPN.entitlements; sourceTree = "<group>"; };
+		D9182CDE2A06127C007F6C3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9182CE42A06127D007F6C3C /* MAC APP Like ESPNTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MAC APP Like ESPNTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9182CE82A06127D007F6C3C /* MAC_APP_Like_ESPNTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAC_APP_Like_ESPNTests.swift; sourceTree = "<group>"; };
+		D9182CEE2A06127D007F6C3C /* MAC APP Like ESPNUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MAC APP Like ESPNUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9182CF22A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAC_APP_Like_ESPNUITests.swift; sourceTree = "<group>"; };
+		D9182CF42A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAC_APP_Like_ESPNUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D9182CD02A06127A007F6C3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9182CE12A06127D007F6C3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9182CEB2A06127D007F6C3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D9182CCA2A06127A007F6C3C = {
+			isa = PBXGroup;
+			children = (
+				D9182CD52A06127A007F6C3C /* MAC APP Like ESPN */,
+				D9182CE72A06127D007F6C3C /* MAC APP Like ESPNTests */,
+				D9182CF12A06127D007F6C3C /* MAC APP Like ESPNUITests */,
+				D9182CD42A06127A007F6C3C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D9182CD42A06127A007F6C3C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D9182CD32A06127A007F6C3C /* MAC APP Like ESPN.app */,
+				D9182CE42A06127D007F6C3C /* MAC APP Like ESPNTests.xctest */,
+				D9182CEE2A06127D007F6C3C /* MAC APP Like ESPNUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D9182CD52A06127A007F6C3C /* MAC APP Like ESPN */ = {
+			isa = PBXGroup;
+			children = (
+				D9182CD62A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift */,
+				D9182CD82A06127A007F6C3C /* ContentView.swift */,
+				D9182CDA2A06127C007F6C3C /* Assets.xcassets */,
+				D9182CDC2A06127C007F6C3C /* MAC_APP_Like_ESPN.entitlements */,
+				D9182CDD2A06127C007F6C3C /* Preview Content */,
+			);
+			path = "MAC APP Like ESPN";
+			sourceTree = "<group>";
+		};
+		D9182CDD2A06127C007F6C3C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D9182CDE2A06127C007F6C3C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D9182CE72A06127D007F6C3C /* MAC APP Like ESPNTests */ = {
+			isa = PBXGroup;
+			children = (
+				D9182CE82A06127D007F6C3C /* MAC_APP_Like_ESPNTests.swift */,
+			);
+			path = "MAC APP Like ESPNTests";
+			sourceTree = "<group>";
+		};
+		D9182CF12A06127D007F6C3C /* MAC APP Like ESPNUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D9182CF22A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift */,
+				D9182CF42A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift */,
+			);
+			path = "MAC APP Like ESPNUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D9182CD22A06127A007F6C3C /* MAC APP Like ESPN */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D9182CF82A06127D007F6C3C /* Build configuration list for PBXNativeTarget "MAC APP Like ESPN" */;
+			buildPhases = (
+				D9182CCF2A06127A007F6C3C /* Sources */,
+				D9182CD02A06127A007F6C3C /* Frameworks */,
+				D9182CD12A06127A007F6C3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MAC APP Like ESPN";
+			productName = "MAC APP Like ESPN";
+			productReference = D9182CD32A06127A007F6C3C /* MAC APP Like ESPN.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D9182CE32A06127D007F6C3C /* MAC APP Like ESPNTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D9182CFB2A06127D007F6C3C /* Build configuration list for PBXNativeTarget "MAC APP Like ESPNTests" */;
+			buildPhases = (
+				D9182CE02A06127D007F6C3C /* Sources */,
+				D9182CE12A06127D007F6C3C /* Frameworks */,
+				D9182CE22A06127D007F6C3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D9182CE62A06127D007F6C3C /* PBXTargetDependency */,
+			);
+			name = "MAC APP Like ESPNTests";
+			productName = "MAC APP Like ESPNTests";
+			productReference = D9182CE42A06127D007F6C3C /* MAC APP Like ESPNTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D9182CED2A06127D007F6C3C /* MAC APP Like ESPNUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D9182CFE2A06127D007F6C3C /* Build configuration list for PBXNativeTarget "MAC APP Like ESPNUITests" */;
+			buildPhases = (
+				D9182CEA2A06127D007F6C3C /* Sources */,
+				D9182CEB2A06127D007F6C3C /* Frameworks */,
+				D9182CEC2A06127D007F6C3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D9182CF02A06127D007F6C3C /* PBXTargetDependency */,
+			);
+			name = "MAC APP Like ESPNUITests";
+			productName = "MAC APP Like ESPNUITests";
+			productReference = D9182CEE2A06127D007F6C3C /* MAC APP Like ESPNUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D9182CCB2A06127A007F6C3C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					D9182CD22A06127A007F6C3C = {
+						CreatedOnToolsVersion = 14.3;
+					};
+					D9182CE32A06127D007F6C3C = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = D9182CD22A06127A007F6C3C;
+					};
+					D9182CED2A06127D007F6C3C = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = D9182CD22A06127A007F6C3C;
+					};
+				};
+			};
+			buildConfigurationList = D9182CCE2A06127A007F6C3C /* Build configuration list for PBXProject "MAC APP Like ESPN" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D9182CCA2A06127A007F6C3C;
+			productRefGroup = D9182CD42A06127A007F6C3C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D9182CD22A06127A007F6C3C /* MAC APP Like ESPN */,
+				D9182CE32A06127D007F6C3C /* MAC APP Like ESPNTests */,
+				D9182CED2A06127D007F6C3C /* MAC APP Like ESPNUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D9182CD12A06127A007F6C3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9182CDF2A06127C007F6C3C /* Preview Assets.xcassets in Resources */,
+				D9182CDB2A06127C007F6C3C /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9182CE22A06127D007F6C3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9182CEC2A06127D007F6C3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D9182CCF2A06127A007F6C3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9182CD92A06127A007F6C3C /* ContentView.swift in Sources */,
+				D9182CD72A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9182CE02A06127D007F6C3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9182CE92A06127D007F6C3C /* MAC_APP_Like_ESPNTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9182CEA2A06127D007F6C3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9182CF32A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift in Sources */,
+				D9182CF52A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D9182CE62A06127D007F6C3C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D9182CD22A06127A007F6C3C /* MAC APP Like ESPN */;
+			targetProxy = D9182CE52A06127D007F6C3C /* PBXContainerItemProxy */;
+		};
+		D9182CF02A06127D007F6C3C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D9182CD22A06127A007F6C3C /* MAC APP Like ESPN */;
+			targetProxy = D9182CEF2A06127D007F6C3C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D9182CF62A06127D007F6C3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D9182CF72A06127D007F6C3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		D9182CF92A06127D007F6C3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MAC APP Like ESPN/MAC_APP_Like_ESPN.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MAC APP Like ESPN/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPN";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D9182CFA2A06127D007F6C3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MAC APP Like ESPN/MAC_APP_Like_ESPN.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MAC APP Like ESPN/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPN";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D9182CFC2A06127D007F6C3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPNTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MAC APP Like ESPN.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MAC APP Like ESPN";
+			};
+			name = Debug;
+		};
+		D9182CFD2A06127D007F6C3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPNTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MAC APP Like ESPN.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MAC APP Like ESPN";
+			};
+			name = Release;
+		};
+		D9182CFF2A06127D007F6C3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPNUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "MAC APP Like ESPN";
+			};
+			name = Debug;
+		};
+		D9182D002A06127D007F6C3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPNUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "MAC APP Like ESPN";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D9182CCE2A06127A007F6C3C /* Build configuration list for PBXProject "MAC APP Like ESPN" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9182CF62A06127D007F6C3C /* Debug */,
+				D9182CF72A06127D007F6C3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9182CF82A06127D007F6C3C /* Build configuration list for PBXNativeTarget "MAC APP Like ESPN" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9182CF92A06127D007F6C3C /* Debug */,
+				D9182CFA2A06127D007F6C3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9182CFB2A06127D007F6C3C /* Build configuration list for PBXNativeTarget "MAC APP Like ESPNTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9182CFC2A06127D007F6C3C /* Debug */,
+				D9182CFD2A06127D007F6C3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9182CFE2A06127D007F6C3C /* Build configuration list for PBXNativeTarget "MAC APP Like ESPNUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9182CFF2A06127D007F6C3C /* Debug */,
+				D9182D002A06127D007F6C3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D9182CCB2A06127A007F6C3C /* Project object */;
+}
