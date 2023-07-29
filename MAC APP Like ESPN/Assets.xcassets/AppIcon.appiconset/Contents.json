@@ -1,56 +1,67 @@
 {
   "images" : [
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_1024x1024.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_5_16x16.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_7_32x32.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_7_32x32 1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_8_64x64.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_9_128x128.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_4_256x256 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_4_256x256.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_3_512x512 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_3_512x512.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
+      "filename" : "Black_White_Modern_Handwritten_Square_Studio_Logo_4_1024x1024 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"

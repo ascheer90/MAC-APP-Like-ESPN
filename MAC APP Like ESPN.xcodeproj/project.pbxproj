@@ -7,13 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D90CDCB42A31818700C4F626 /* PodcastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCB32A31818700C4F626 /* PodcastView.swift */; };
+		D90CDCB62A32BC1000C4F626 /* RSSFeedStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCB52A32BC1000C4F626 /* RSSFeedStore.swift */; };
+		D90CDCB82A32D35900C4F626 /* MediaPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCB72A32D35900C4F626 /* MediaPlayerView.swift */; };
+		D90CDCBA2A36193D00C4F626 /* PodcastPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCB92A36193D00C4F626 /* PodcastPlayerView.swift */; };
+		D90CDCBC2A38267A00C4F626 /* BackgroundAudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCBB2A38267A00C4F626 /* BackgroundAudioPlayer.swift */; };
+		D90CDCBE2A3827B800C4F626 /* PlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCBD2A3827B800C4F626 /* PlayerManager.swift */; };
+		D90CDCC02A43DB2200C4F626 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCBF2A43DB2200C4F626 /* City.swift */; };
+		D90CDCC22A43E0FD00C4F626 /* CityDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90CDCC12A43E0FD00C4F626 /* CityDetailView.swift */; };
 		D9182CD72A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CD62A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift */; };
-		D9182CD92A06127A007F6C3C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CD82A06127A007F6C3C /* ContentView.swift */; };
 		D9182CDB2A06127C007F6C3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9182CDA2A06127C007F6C3C /* Assets.xcassets */; };
 		D9182CDF2A06127C007F6C3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9182CDE2A06127C007F6C3C /* Preview Assets.xcassets */; };
 		D9182CE92A06127D007F6C3C /* MAC_APP_Like_ESPNTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CE82A06127D007F6C3C /* MAC_APP_Like_ESPNTests.swift */; };
 		D9182CF32A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CF22A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift */; };
 		D9182CF52A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182CF42A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift */; };
+		D9182D022A061909007F6C3C /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182D012A061909007F6C3C /* NewsView.swift */; };
+		D9182D042A061A5C007F6C3C /* ScoresView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182D032A061A5C007F6C3C /* ScoresView.swift */; };
+		D9182D0A2A061E50007F6C3C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182D092A061E50007F6C3C /* SettingsView.swift */; };
+		D9182D122A0974BF007F6C3C /* TeamDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182D112A0974BF007F6C3C /* TeamDetailView.swift */; };
+		D9182D142A09763C007F6C3C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9182D132A09763C007F6C3C /* Data.swift */; };
+		D93285422A64D84700C32AE5 /* TeamListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93285402A64C9C400C32AE5 /* TeamListView.swift */; };
+		D9406A172A0B097900C8B934 /* Rivalry.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A162A0B097900C8B934 /* Rivalry.swift */; };
+		D9406A192A0B0A0C00C8B934 /* RivalryTrackerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A182A0B0A0C00C8B934 /* RivalryTrackerView.swift */; };
+		D9406A1B2A0B485900C8B934 /* TeamStandingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A1A2A0B485900C8B934 /* TeamStandingsView.swift */; };
+		D9406A262A0EE8F600C8B934 /* FeedKit in Frameworks */ = {isa = PBXBuildFile; productRef = D9406A252A0EE8F600C8B934 /* FeedKit */; };
+		D9406A302A0FDBC600C8B934 /* RivarlySwiftView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A2F2A0FDBC600C8B934 /* RivarlySwiftView.swift */; };
+		D9406A322A0FDBFB00C8B934 /* RivalryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A312A0FDBFB00C8B934 /* RivalryDetailView.swift */; };
+		D9406A442A15C98100C8B934 /* RoadTripView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A432A15C98100C8B934 /* RoadTripView.swift */; };
+		D9406A462A15CA6200C8B934 /* PlacesToEatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A452A15CA6200C8B934 /* PlacesToEatView.swift */; };
+		D9406A482A15CA8600C8B934 /* CampusMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A472A15CA8600C8B934 /* CampusMapView.swift */; };
+		D9406A4A2A15CAA200C8B934 /* SightSeeingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A492A15CAA200C8B934 /* SightSeeingView.swift */; };
+		D9406A4C2A18559800C8B934 /* RecordHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A4B2A18559800C8B934 /* RecordHelper.swift */; };
+		D9406A652A25992300C8B934 /* URLImage in Frameworks */ = {isa = PBXBuildFile; productRef = D9406A642A25992300C8B934 /* URLImage */; };
+		D9406A672A25992300C8B934 /* URLImageStore in Frameworks */ = {isa = PBXBuildFile; productRef = D9406A662A25992300C8B934 /* URLImageStore */; };
+		D9406A712A2985DC00C8B934 /* RSSFeedItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A702A2985DC00C8B934 /* RSSFeedItem.swift */; };
+		D9406A732A2985F800C8B934 /* RSSFeedParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A722A2985F800C8B934 /* RSSFeedParser.swift */; };
+		D9406A752A29862500C8B934 /* RSSFeedModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9406A742A29862500C8B934 /* RSSFeedModel.swift */; };
+		D9D408862A674BCB00741C74 /* AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D408852A674BCB00741C74 /* AppColors.swift */; };
+		D9D408882A674BEB00741C74 /* CustomButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D408872A674BEB00741C74 /* CustomButtonStyle.swift */; };
+		D9D4088A2A674C1200741C74 /* CustomFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D408892A674C1200741C74 /* CustomFonts.swift */; };
+		D9EC11BC2A4BD5BA00F71C77 /* StadiumSoundsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EC11BB2A4BD5BA00F71C77 /* StadiumSoundsView.swift */; };
+		D9F34E852A2EE3130031EABB /* info_.plist in Resources */ = {isa = PBXBuildFile; fileRef = D9F34E842A2EE3130031EABB /* info_.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +68,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D90CDCB32A31818700C4F626 /* PodcastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodcastView.swift; sourceTree = "<group>"; };
+		D90CDCB52A32BC1000C4F626 /* RSSFeedStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSFeedStore.swift; sourceTree = "<group>"; };
+		D90CDCB72A32D35900C4F626 /* MediaPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaPlayerView.swift; sourceTree = "<group>"; };
+		D90CDCB92A36193D00C4F626 /* PodcastPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodcastPlayerView.swift; sourceTree = "<group>"; };
+		D90CDCBB2A38267A00C4F626 /* BackgroundAudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAudioPlayer.swift; sourceTree = "<group>"; };
+		D90CDCBD2A3827B800C4F626 /* PlayerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerManager.swift; sourceTree = "<group>"; };
+		D90CDCBF2A43DB2200C4F626 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
+		D90CDCC12A43E0FD00C4F626 /* CityDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityDetailView.swift; sourceTree = "<group>"; };
 		D9182CD32A06127A007F6C3C /* MAC APP Like ESPN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MAC APP Like ESPN.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9182CD62A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAC_APP_Like_ESPNApp.swift; sourceTree = "<group>"; };
-		D9182CD82A06127A007F6C3C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9182CDA2A06127C007F6C3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9182CDC2A06127C007F6C3C /* MAC_APP_Like_ESPN.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MAC_APP_Like_ESPN.entitlements; sourceTree = "<group>"; };
 		D9182CDE2A06127C007F6C3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -45,6 +86,30 @@
 		D9182CEE2A06127D007F6C3C /* MAC APP Like ESPNUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MAC APP Like ESPNUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9182CF22A06127D007F6C3C /* MAC_APP_Like_ESPNUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAC_APP_Like_ESPNUITests.swift; sourceTree = "<group>"; };
 		D9182CF42A06127D007F6C3C /* MAC_APP_Like_ESPNUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAC_APP_Like_ESPNUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D9182D012A061909007F6C3C /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		D9182D032A061A5C007F6C3C /* ScoresView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoresView.swift; sourceTree = "<group>"; };
+		D9182D092A061E50007F6C3C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		D9182D112A0974BF007F6C3C /* TeamDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamDetailView.swift; sourceTree = "<group>"; };
+		D9182D132A09763C007F6C3C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		D93285402A64C9C400C32AE5 /* TeamListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamListView.swift; sourceTree = "<group>"; };
+		D9406A162A0B097900C8B934 /* Rivalry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rivalry.swift; sourceTree = "<group>"; };
+		D9406A182A0B0A0C00C8B934 /* RivalryTrackerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RivalryTrackerView.swift; sourceTree = "<group>"; };
+		D9406A1A2A0B485900C8B934 /* TeamStandingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamStandingsView.swift; sourceTree = "<group>"; };
+		D9406A2F2A0FDBC600C8B934 /* RivarlySwiftView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RivarlySwiftView.swift; sourceTree = "<group>"; };
+		D9406A312A0FDBFB00C8B934 /* RivalryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RivalryDetailView.swift; sourceTree = "<group>"; };
+		D9406A432A15C98100C8B934 /* RoadTripView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoadTripView.swift; sourceTree = "<group>"; };
+		D9406A452A15CA6200C8B934 /* PlacesToEatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesToEatView.swift; sourceTree = "<group>"; };
+		D9406A472A15CA8600C8B934 /* CampusMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampusMapView.swift; sourceTree = "<group>"; };
+		D9406A492A15CAA200C8B934 /* SightSeeingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SightSeeingView.swift; sourceTree = "<group>"; };
+		D9406A4B2A18559800C8B934 /* RecordHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordHelper.swift; sourceTree = "<group>"; };
+		D9406A702A2985DC00C8B934 /* RSSFeedItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSFeedItem.swift; sourceTree = "<group>"; };
+		D9406A722A2985F800C8B934 /* RSSFeedParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSFeedParser.swift; sourceTree = "<group>"; };
+		D9406A742A29862500C8B934 /* RSSFeedModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSFeedModel.swift; sourceTree = "<group>"; };
+		D9D408852A674BCB00741C74 /* AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColors.swift; sourceTree = "<group>"; };
+		D9D408872A674BEB00741C74 /* CustomButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonStyle.swift; sourceTree = "<group>"; };
+		D9D408892A674C1200741C74 /* CustomFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFonts.swift; sourceTree = "<group>"; };
+		D9EC11BB2A4BD5BA00F71C77 /* StadiumSoundsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StadiumSoundsView.swift; sourceTree = "<group>"; };
+		D9F34E842A2EE3130031EABB /* info_.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = info_.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +117,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9406A652A25992300C8B934 /* URLImage in Frameworks */,
+				D9406A672A25992300C8B934 /* URLImageStore in Frameworks */,
+				D9406A262A0EE8F600C8B934 /* FeedKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,10 +143,40 @@
 		D9182CCA2A06127A007F6C3C = {
 			isa = PBXGroup;
 			children = (
+				D90CDCC12A43E0FD00C4F626 /* CityDetailView.swift */,
+				D90CDCBD2A3827B800C4F626 /* PlayerManager.swift */,
+				D90CDCBB2A38267A00C4F626 /* BackgroundAudioPlayer.swift */,
+				D90CDCB92A36193D00C4F626 /* PodcastPlayerView.swift */,
+				D9D408842A674B2200741C74 /* CustomStyles */,
+				D90CDCB72A32D35900C4F626 /* MediaPlayerView.swift */,
+				D90CDCB52A32BC1000C4F626 /* RSSFeedStore.swift */,
+				D90CDCB32A31818700C4F626 /* PodcastView.swift */,
+				D9F34E842A2EE3130031EABB /* info_.plist */,
+				D9406A742A29862500C8B934 /* RSSFeedModel.swift */,
+				D9406A722A2985F800C8B934 /* RSSFeedParser.swift */,
+				D9406A702A2985DC00C8B934 /* RSSFeedItem.swift */,
+				D9406A4B2A18559800C8B934 /* RecordHelper.swift */,
+				D9406A472A15CA8600C8B934 /* CampusMapView.swift */,
+				D9182D132A09763C007F6C3C /* Data.swift */,
 				D9182CD52A06127A007F6C3C /* MAC APP Like ESPN */,
 				D9182CE72A06127D007F6C3C /* MAC APP Like ESPNTests */,
 				D9182CF12A06127D007F6C3C /* MAC APP Like ESPNUITests */,
+				D9182D012A061909007F6C3C /* NewsView.swift */,
+				D9406A452A15CA6200C8B934 /* PlacesToEatView.swift */,
 				D9182CD42A06127A007F6C3C /* Products */,
+				D9406A162A0B097900C8B934 /* Rivalry.swift */,
+				D9406A312A0FDBFB00C8B934 /* RivalryDetailView.swift */,
+				D9406A182A0B0A0C00C8B934 /* RivalryTrackerView.swift */,
+				D93285402A64C9C400C32AE5 /* TeamListView.swift */,
+				D9406A2F2A0FDBC600C8B934 /* RivarlySwiftView.swift */,
+				D9406A432A15C98100C8B934 /* RoadTripView.swift */,
+				D9182D032A061A5C007F6C3C /* ScoresView.swift */,
+				D9182D092A061E50007F6C3C /* SettingsView.swift */,
+				D9406A492A15CAA200C8B934 /* SightSeeingView.swift */,
+				D9182D112A0974BF007F6C3C /* TeamDetailView.swift */,
+				D90CDCBF2A43DB2200C4F626 /* City.swift */,
+				D9406A1A2A0B485900C8B934 /* TeamStandingsView.swift */,
+				D9EC11BB2A4BD5BA00F71C77 /* StadiumSoundsView.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -96,7 +194,6 @@
 			isa = PBXGroup;
 			children = (
 				D9182CD62A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift */,
-				D9182CD82A06127A007F6C3C /* ContentView.swift */,
 				D9182CDA2A06127C007F6C3C /* Assets.xcassets */,
 				D9182CDC2A06127C007F6C3C /* MAC_APP_Like_ESPN.entitlements */,
 				D9182CDD2A06127C007F6C3C /* Preview Content */,
@@ -129,6 +226,16 @@
 			path = "MAC APP Like ESPNUITests";
 			sourceTree = "<group>";
 		};
+		D9D408842A674B2200741C74 /* CustomStyles */ = {
+			isa = PBXGroup;
+			children = (
+				D9D408852A674BCB00741C74 /* AppColors.swift */,
+				D9D408872A674BEB00741C74 /* CustomButtonStyle.swift */,
+				D9D408892A674C1200741C74 /* CustomFonts.swift */,
+			);
+			path = CustomStyles;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -145,6 +252,11 @@
 			dependencies = (
 			);
 			name = "MAC APP Like ESPN";
+			packageProductDependencies = (
+				D9406A252A0EE8F600C8B934 /* FeedKit */,
+				D9406A642A25992300C8B934 /* URLImage */,
+				D9406A662A25992300C8B934 /* URLImageStore */,
+			);
 			productName = "MAC APP Like ESPN";
 			productReference = D9182CD32A06127A007F6C3C /* MAC APP Like ESPN.app */;
 			productType = "com.apple.product-type.application";
@@ -217,6 +329,10 @@
 				Base,
 			);
 			mainGroup = D9182CCA2A06127A007F6C3C;
+			packageReferences = (
+				D9406A242A0EE8F600C8B934 /* XCRemoteSwiftPackageReference "FeedKit" */,
+				D9406A632A25992300C8B934 /* XCRemoteSwiftPackageReference "url-image" */,
+			);
 			productRefGroup = D9182CD42A06127A007F6C3C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -235,6 +351,7 @@
 			files = (
 				D9182CDF2A06127C007F6C3C /* Preview Assets.xcassets in Resources */,
 				D9182CDB2A06127C007F6C3C /* Assets.xcassets in Resources */,
+				D9F34E852A2EE3130031EABB /* info_.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +376,38 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9182CD92A06127A007F6C3C /* ContentView.swift in Sources */,
+				D9EC11BC2A4BD5BA00F71C77 /* StadiumSoundsView.swift in Sources */,
+				D9182D0A2A061E50007F6C3C /* SettingsView.swift in Sources */,
+				D9D408862A674BCB00741C74 /* AppColors.swift in Sources */,
+				D9182D042A061A5C007F6C3C /* ScoresView.swift in Sources */,
+				D90CDCB42A31818700C4F626 /* PodcastView.swift in Sources */,
+				D90CDCC22A43E0FD00C4F626 /* CityDetailView.swift in Sources */,
+				D9406A322A0FDBFB00C8B934 /* RivalryDetailView.swift in Sources */,
+				D90CDCBE2A3827B800C4F626 /* PlayerManager.swift in Sources */,
+				D90CDCC02A43DB2200C4F626 /* City.swift in Sources */,
+				D9406A192A0B0A0C00C8B934 /* RivalryTrackerView.swift in Sources */,
+				D9406A302A0FDBC600C8B934 /* RivarlySwiftView.swift in Sources */,
 				D9182CD72A06127A007F6C3C /* MAC_APP_Like_ESPNApp.swift in Sources */,
+				D9406A732A2985F800C8B934 /* RSSFeedParser.swift in Sources */,
+				D9406A462A15CA6200C8B934 /* PlacesToEatView.swift in Sources */,
+				D9406A4C2A18559800C8B934 /* RecordHelper.swift in Sources */,
+				D9182D122A0974BF007F6C3C /* TeamDetailView.swift in Sources */,
+				D9406A752A29862500C8B934 /* RSSFeedModel.swift in Sources */,
+				D9182D142A09763C007F6C3C /* Data.swift in Sources */,
+				D90CDCBC2A38267A00C4F626 /* BackgroundAudioPlayer.swift in Sources */,
+				D9406A712A2985DC00C8B934 /* RSSFeedItem.swift in Sources */,
+				D90CDCB82A32D35900C4F626 /* MediaPlayerView.swift in Sources */,
+				D90CDCBA2A36193D00C4F626 /* PodcastPlayerView.swift in Sources */,
+				D90CDCB62A32BC1000C4F626 /* RSSFeedStore.swift in Sources */,
+				D9406A172A0B097900C8B934 /* Rivalry.swift in Sources */,
+				D9406A442A15C98100C8B934 /* RoadTripView.swift in Sources */,
+				D9D408882A674BEB00741C74 /* CustomButtonStyle.swift in Sources */,
+				D9406A482A15CA8600C8B934 /* CampusMapView.swift in Sources */,
+				D9406A4A2A15CAA200C8B934 /* SightSeeingView.swift in Sources */,
+				D9406A1B2A0B485900C8B934 /* TeamStandingsView.swift in Sources */,
+				D9D4088A2A674C1200741C74 /* CustomFonts.swift in Sources */,
+				D9182D022A061909007F6C3C /* NewsView.swift in Sources */,
+				D93285422A64D84700C32AE5 /* TeamListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,6 +494,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.sports";
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -399,6 +548,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.sports";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -415,8 +566,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MAC APP Like ESPN/Preview Content\"";
+				DEVELOPMENT_TEAM = 9D8469SQVT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mobile #MACtion ";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.sports";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -434,8 +588,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPN";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -451,8 +605,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MAC APP Like ESPN/Preview Content\"";
+				DEVELOPMENT_TEAM = 9D8469SQVT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mobile #MACtion ";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.sports";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -470,8 +627,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "CSC-POD.MAC-APP-Like-ESPN";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -604,6 +761,43 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D9406A242A0EE8F600C8B934 /* XCRemoteSwiftPackageReference "FeedKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/nmdias/FeedKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 9.0.0;
+			};
+		};
+		D9406A632A25992300C8B934 /* XCRemoteSwiftPackageReference "url-image" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/dmytro-anokhin/url-image";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D9406A252A0EE8F600C8B934 /* FeedKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D9406A242A0EE8F600C8B934 /* XCRemoteSwiftPackageReference "FeedKit" */;
+			productName = FeedKit;
+		};
+		D9406A642A25992300C8B934 /* URLImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D9406A632A25992300C8B934 /* XCRemoteSwiftPackageReference "url-image" */;
+			productName = URLImage;
+		};
+		D9406A662A25992300C8B934 /* URLImageStore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D9406A632A25992300C8B934 /* XCRemoteSwiftPackageReference "url-image" */;
+			productName = URLImageStore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D9182CCB2A06127A007F6C3C /* Project object */;
 }
