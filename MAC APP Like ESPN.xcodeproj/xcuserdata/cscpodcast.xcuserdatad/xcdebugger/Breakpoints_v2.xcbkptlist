@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2865B643-C176-4578-9243-9DFAA24CED3A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31D61D4A-EDA3-43D6-B889-E873379D3F11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodcastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DD980FB-DC55-4839-9877-B3FD7CFE13ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rivalry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "711"
+            endingLineNumber = "711"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "7DD980FB-DC55-4839-9877-B3FD7CFE13ED - 136ef26376da93ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for rivalries"
+                  moduleName = "MAC APP Like ESPN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cscpodcast/Desktop/MAC%20APP%20Like%20ESPN/Rivalry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "2232">
+               </Location>
+               <Location
+                  uuid = "7DD980FB-DC55-4839-9877-B3FD7CFE13ED - 136ef26376da8841"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for rivalries"
+                  moduleName = "MAC APP Like ESPN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cscpodcast/Desktop/MAC%20APP%20Like%20ESPN/Rivalry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "395"
+                  endingLineNumber = "395"
+                  offsetFromSymbolStart = "1912">
+               </Location>
+               <Location
+                  uuid = "7DD980FB-DC55-4839-9877-B3FD7CFE13ED - 136ef26376dabba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for rivalries"
+                  moduleName = "MAC APP Like ESPN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cscpodcast/Desktop/MAC%20APP%20Like%20ESPN/Rivalry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "493"
+                  endingLineNumber = "493"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
